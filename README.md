@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot2.gif" width="380">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380">
 </p>
 
 ---
@@ -110,8 +110,8 @@ const sumit: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumittt28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittt28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Sumittt28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Sumittt28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ const sumit: Developer = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumittt28&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=Sumittt28&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"/>
 </div>
 
 <p align="center">
@@ -131,10 +131,10 @@ const sumit: Developer = {
 <div align="center">
 
   <a href="https://github.com/Sumittt28/placement-intelligence-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=placement-intelligence-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=placement-intelligence-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
   <a href="https://github.com/Sumittt28/oncall-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=oncall-copilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=oncall-copilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
 
 </div>
@@ -142,10 +142,10 @@ const sumit: Developer = {
 <div align="center">
 
   <a href="https://github.com/Sumittt28/smart-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=smart-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=smart-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
   <a href="https://github.com/Sumittt28/realtime-whiteboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=realtime-whiteboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=realtime-whiteboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
 
 </div>
@@ -153,10 +153,10 @@ const sumit: Developer = {
 <div align="center">
 
   <a href="https://github.com/Sumittt28/spendr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=spendr&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=spendr&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
   <a href="https://github.com/Sumittt28/lms-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumittt28&repo=lms-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=Sumittt28&repo=lms-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
   </a>
 
 </div>
