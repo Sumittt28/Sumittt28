@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380">
+  <img src="./assets/dev-adventure.svg" width="800" alt="Pixel Art Developer Adventure">
 </p>
 
 ---
